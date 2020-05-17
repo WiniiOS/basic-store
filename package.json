@@ -1,0 +1,11 @@
+{
+  "name": "e-store",
+  "version": "1.0.0",
+  "description": "mini commerce app only javascript,ajout de fonctionnalites propres a un shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "franck developpeur",
+  "license": "ISC"
+}
